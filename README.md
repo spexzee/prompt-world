@@ -1,1 +1,1 @@
-Live : https://spexzee-prompt.vercel.app/
+Live : https://spexzee-prompt.netlify.app/
